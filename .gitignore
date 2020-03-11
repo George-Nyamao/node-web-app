@@ -1,7 +1,7 @@
 .dockerignore
 .ipynb_checkpoints/
 .gcloudignore
-.vs/
+.vs
 CIFAR-10-classification/
 __pycache__/
 env/
